@@ -1,0 +1,6 @@
+streamlit
+pandas
+kagglehub
+nltk
+os
+re
